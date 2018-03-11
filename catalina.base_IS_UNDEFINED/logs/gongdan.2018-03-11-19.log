@@ -1,0 +1,5 @@
+2018-03-11 19:56:02,813 [INFO ] [main] |15|App2                                    |QTraceID[]|---hello world
+2018-03-11 19:58:38,456 [INFO ] [main] |15|App2                                    |QTraceID[]|---hello world
+2018-03-11 19:58:38,468 [INFO ] [main] |19|App1                                    |QTraceID[]|---hello：：class ch.qos.logback.classic.Logger
+2018-03-11 19:59:34,647 [INFO ] [main] |15|App2                                    |QTraceID[]|---hello world
+2018-03-11 19:59:34,653 [INFO ] [main] |19|App1                                    |QTraceID[]|---hello：：class ch.qos.logback.classic.Logger

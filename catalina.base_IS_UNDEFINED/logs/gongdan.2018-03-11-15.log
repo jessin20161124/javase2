@@ -1,0 +1,8 @@
+2018-03-11 15:35:07,628 [INFO ] [main] |15|App2                                    |QTraceID[]|---hello world
+2018-03-11 15:35:39,932 [INFO ] [main] |15|App2                                    |QTraceID[]|---hello world
+2018-03-11 15:35:39,937 [INFO ] [main] |15|App                                     |QTraceID[]|---hello：class ch.qos.logback.classic.Logger
+2018-03-11 15:50:55,903 [INFO ] [main] |15|App2                                    |QTraceID[]|---hello world
+2018-03-11 15:51:21,330 [INFO ] [main] |15|App2                                    |QTraceID[]|---hello world
+2018-03-11 15:56:13,775 [INFO ] [main] |15|App2                                    |QTraceID[]|---hello world
+2018-03-11 15:56:13,787 [INFO ] [main] |18|App                                     |QTraceID[]|---hello：class org.apache.log4j.Logger
+2018-03-11 15:56:48,695 [INFO ] [main] |15|App2                                    |QTraceID[]|---hello world

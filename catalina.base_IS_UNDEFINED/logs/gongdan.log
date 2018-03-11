@@ -1,0 +1,13 @@
+2018-03-11 20:14:46,768 [INFO ] [main] |11|App2                                    |QTraceID[]|---hello world
+2018-03-11 20:14:46,786 [INFO ] [main] |19|App1                                    |QTraceID[]|---hello：：class ch.qos.logback.classic.Logger
+2018-03-11 20:15:14,028 [INFO ] [main] |11|App2                                    |QTraceID[]|---hello world
+2018-03-11 20:15:14,044 [INFO ] [main] |19|App1                                    |QTraceID[]|---hello：：class ch.qos.logback.classic.Logger
+2018-03-11 20:17:31,007 [INFO ] [main] |11|App2                                    |QTraceID[]|---hello world
+2018-03-11 20:17:31,012 [INFO ] [main] |19|App1                                    |QTraceID[]|---hello：：class ch.qos.logback.classic.Logger
+2018-03-11 20:25:56,462 [INFO ] [main] |11|App2                                    |QTraceID[]|---hello world
+2018-03-11 20:27:40,358 [INFO ] [main] |11|App2                                    |QTraceID[]|---hello world
+2018-03-11 20:29:00,163 [INFO ] [main] |11|App2                                    |QTraceID[]|---hello world
+2018-03-11 20:29:51,365 [INFO ] [main] |11|App2                                    |QTraceID[]|---hello world
+2018-03-11 20:30:38,795 [INFO ] [main] |11|App2                                    |QTraceID[]|---hello world
+2018-03-11 20:35:52,996 [INFO ] [main] |11|App2                                    |QTraceID[]|---hello world
+2018-03-11 20:35:53,008 [INFO ] [main] |13|App1                                    |QTraceID[]|---class com.baobao.App1： class org.apache.log4j.Logger

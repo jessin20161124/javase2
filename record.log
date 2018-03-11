@@ -1,0 +1,16 @@
+2018-03-1115:29:26 com.baobao.App2.main(App2.java:15) App2.java INFO hello world
+  2018-03-1115:50:56 com.baobao.App.print(App.java:18) App.java INFO hello：class org.apache.log4j.Logger
+  2018-03-1115:51:21 com.baobao.App.print(App.java:18) App.java INFO hello：class org.apache.log4j.Logger
+  2018-03-1115:56:48 com.baobao.App.print(App.java:18) App.java INFO hello：class org.apache.log4j.Logger
+  2018-03-1119:56:02 com.baobao.App.print(App.java:18) App.java INFO hello：class org.apache.log4j.Logger
+  2018-03-1120:02:46 com.baobao.App2.main(App2.java:15) App2.java INFO hello world
+  2018-03-1120:02:46 com.baobao.App1.print(App1.java:19) App1.java INFO hello：：class org.slf4j.impl.Log4jLoggerAdapter
+  2018-03-1120:05:55 com.baobao.App2.main(App2.java:15) App2.java INFO hello world
+  2018-03-1120:05:55 com.baobao.App1.print(App1.java:19) App1.java INFO hello：：class org.slf4j.impl.Log4jLoggerAdapter
+  2018-03-1120:06:07 com.baobao.App2.main(App2.java:15) App2.java INFO hello world
+  2018-03-1120:06:07 com.baobao.App1.print(App1.java:19) App1.java INFO hello：：class org.slf4j.impl.Log4jLoggerAdapter
+  2018-03-1120:06:27 com.baobao.App2.main(App2.java:15) App2.java INFO hello world
+  2018-03-1120:29:00 com.baobao.App1.print(App1.java:13) App1.java INFO class com.baobao.App1： class org.apache.log4j.Logger
+  2018-03-1120:29:51 com.baobao.App1.print(App1.java:13) App1.java INFO class com.baobao.App1： class org.apache.log4j.Logger
+  2018-03-1120:30:38 com.baobao.App1.print(App1.java:13) App1.java INFO class com.baobao.App1： class org.apache.log4j.Logger
+  
